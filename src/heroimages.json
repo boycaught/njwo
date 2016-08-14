@@ -1,6 +1,11 @@
 heroimages: [
   { 
-    "week": "1", 
+    "week": "0", 
+    "url": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201607301021372881788.jpeg&amp;w=512&amp;h=352", 
+    "caption": "" 
+  }, 
+  { 
+    "week": "-1", 
     "url": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2014%5C09%5C12%5C180058795.jpg&w=100&h=75", 
     "caption": "All Day!" 
   } 
