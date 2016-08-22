@@ -18,6 +18,7 @@
   "homepage": "https://github.com/boycaught/njwo#readme",
   "dependencies": {
     "express": "^4.14.0",
+    "nodemailer": "^2.5.0", 
     "mailgen": "^1.0.25"
   }
 }
