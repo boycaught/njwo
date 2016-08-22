@@ -1,0 +1,23 @@
+{
+  "name": "njwo",
+  "version": "1.0.0",
+  "description": "simple update app for notifications in NJWO FFL",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boycaught/njwo.git"
+  },
+  "author": "github.bot@lagtime.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boycaught/njwo/issues"
+  },
+  "homepage": "https://github.com/boycaught/njwo#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mailgen": "^1.0.25"
+  }
+}
