@@ -1,0 +1,65 @@
+{
+	"updates": 
+	[	
+		{
+			"week": "6",
+			"title": "Big Johnson!",
+			"teamname": "Huskies",
+			"teamId": "5",
+			"points": "204",
+			"description": "David Johnson vs New York Jets",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F10%2F17%2F615329518.jpg",
+			"imgSpecs": "w=150&h=100"
+		},
+		{
+			"week": "5",
+			"title": "Zeke-a-delic!",
+			"teamname": "Nomads",
+			"teamId": "14",
+			"points": "166",
+			"description": "Ezekiel Elliot vs Cincinnati",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201610091723625975503.jpeg",
+			"imgSpecs": "w=512&h=367"
+		},
+		{
+			"week": "4",
+			"title": "Electric!",
+			"teamname": "Palookas",
+			"teamId": "25",
+			"points": "176",
+			"description": "Ben Roethlisberger vs Chiefs",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%5C10%5C02%5C612092756.jpg",
+			"imgSpecs": "w=149&amp;h=118"
+		},
+		{
+			"week": "3",
+			"title": "Patriotic!",
+			"teamname": "Bandidos",
+			"teamId": "17",
+			"points": "171",
+			"description": "Patriots D/ST vs Texans",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201609222255825358526.jpeg",
+			"imgSpecs": "w=512&h=370"
+		},
+		{
+			"week": "2",
+			"title": "Camtastic!",
+			"teamname": "Murder Killers",
+			"teamId": "28",
+			"points": "185",
+			"description": "Matt Forte vs Bills",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%5C09%5C18%5C607562030.jpg",
+			"imgSpecs": "w=148&h=99"
+		},
+		{
+			"week": "1",
+			"title": "There goes that man!",
+			"teamname": "Nomads",
+			"teamId": "14",
+			"points": "180",
+			"description": "Antonio Brown",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2014%5C08%5C28%5C454305516.jpg",
+			"imgSpecs": "w=715&h=477"
+		}
+	]
+}}
