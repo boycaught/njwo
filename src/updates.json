@@ -2,6 +2,56 @@
 	"updates": 
 	[
 		{
+			"week": "*",
+			"title": "",
+			"teamname": "",
+			"teamId": "",
+			"points": "",
+			"description": "_________ vs __________",
+			"imgUrl": "",
+			"imgSpecs": "w=150&h=100"
+		},
+		{
+			"week": "10",
+			"title": "Young Guns",
+			"teamname": "Nomads",
+			"teamId": "14",
+			"points": "180",
+			"description": "Ezekiel Elliot practicing after Pittsburgh",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201611161344494590673.jpeg",
+			"imgSpecs": "w=420&h=511"
+		},
+		{
+			"week": "9",
+			"title": "Latavius Maximus",
+			"teamname": "FYouToos",
+			"teamId": "29",
+			"points": "157",
+			"description": "Latavius Murray vs Denver",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F11%2F06%2F621541566.jpg",
+			"imgSpecs": "w=149&h=107"
+		},
+		{
+			"week": "8",
+			"title": "Inflated Ego",
+			"teamname": "Total Defiance",
+			"teamId": "20",
+			"points": "176",
+			"description": "Tom Brady vs Buffalo",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201610301232451496239.jpeg",
+			"imgSpecs": "w=512&h=340"
+		},
+		{
+			"week": "7",
+			"title": "You still like that?",
+			"teamname": "FYouToos",
+			"teamId": "29",
+			"points": "159",
+			"description": "Kurt Cousins vs Detroit Lions",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F10%2F23%2F617512386.jpg",
+			"imgSpecs": "w=150&h=100"
+		},
+		{
 			"week": "6",
 			"title": "Big Johnson!",
 			"teamname": "Huskies",
@@ -18,8 +68,8 @@
 			"teamId": "14",
 			"points": "166",
 			"description": "Ezekiel Elliot vs Cincinnati",
-			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201610091723625975503.jpeg",
-			"imgSpecs": "w=512&h=367"
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F10%2F09%2F613633394.jpg",
+			"imgSpecs": "&w=149&h=110"
 		},
 		{
 			"week": "4",
@@ -38,7 +88,7 @@
 			"teamId": "17",
 			"points": "171",
 			"description": "Patriots D/ST vs Texans",
-			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201609222255825358526.jpeg",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F10%2F16%2F615121940.jpg",
 			"imgSpecs": "w=512&h=370"
 		},
 		{
