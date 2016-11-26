@@ -2,13 +2,23 @@
 	"updates": 
 	[	
 		{
+			"week": "11",
+			"title": "Veterans Day",
+			"teamname": "Bandidos",
+			"teamId": "17",
+			"points": "162",
+			"description": "Steelers D/ST vs Cleveland",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F11%2F20%2F624662514.jpg",
+			"imgSpecs": "w=148&h=109"
+		},
+		{
 			"week": "10",
 			"title": "Young Guns",
 			"teamname": "Nomads",
 			"teamId": "14",
 			"points": "180",
-			"description": "Ezekiel Elliot practicing after Pittsburgh",
-			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201611161344494590673.jpeg",
+			"description": "Dallas Cowboys TD celebration",
+			"imgUrl": "http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F1124%2Fr155566_1296x518_5%2D2.jpg",
 			"imgSpecs": "w=420&h=511"
 		},
 		{
