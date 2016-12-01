@@ -12,6 +12,16 @@
 			"imgSpecs": "w=150&h=100"
 		},
 		{
+			"week": "12",
+			"title": "The Real McCoy",
+			"teamname": "Nomads",
+			"teamId": "14",
+			"points": "211",
+			"description": "LeSean McCoy vs Jacksonville",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201611271529557623419.jpeg",
+			"imgSpecs": "w=512&h=341"
+		},
+		{
 			"week": "11",
 			"title": "Veterans Day",
 			"teamname": "Bandidos",
