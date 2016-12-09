@@ -9,7 +9,17 @@
 			"points": "",
 			"description": "_________ vs __________",
 			"imgUrl": "",
-			"imgSpecs": "w=XXX&h=YYY"
+			"imgSpecs": "w=150&h=100"
+		},
+		{
+			"week": "13",
+			"title": "Viking Clap",
+			"teamname": "Murder Killers",
+			"teamId": "28",
+			"points": "147",
+			"description": "Vikings D/ST vs Dallas",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F12%2F01%2F627073562.jpg",
+			"imgSpecs": "w=149&h=108"
 		},
 		{
 			"week": "12",
