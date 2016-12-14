@@ -2,6 +2,16 @@
 	"updates": 
 	[	
 		{
+			"week": "14",
+			"title": "Rising Above",
+			"teamname": "Football Club",
+			"teamId": "3",
+			"points": "208",
+			"description": "Le'veon Bell vs Buffalo Bills",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F12%2F11%2F629166258.jpg",
+			"imgSpecs": "w=150&h=100"
+		},
+		{
 			"week": "13",
 			"title": "Viking Clap",
 			"teamname": "Murder Killers",
