@@ -12,6 +12,16 @@
 			"imgSpecs": "w=150&h=100"
 		},
 		{
+			"week": "16",
+			"title": "2016 Champion Crowned",
+			"teamname": "Huskies",
+			"teamId": "5",
+			"points": "178",
+			"description": "Jay Ajayi vs Buffalo",
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201612241644602558719.jpeg",
+			"imgSpecs": "w=512&h=357"
+		},
+		{
 			"week": "14",
 			"title": "Rising Above",
 			"teamname": "Football Club",
@@ -38,8 +48,8 @@
 			"teamId": "14",
 			"points": "211",
 			"description": "LeSean McCoy vs Jacksonville",
-			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fapphoto%2F201611271529557623419.jpeg",
-			"imgSpecs": "w=512&h=341"
+			"imgUrl": "http://a.espncdn.com/combiner/i?img=media%2Fgettyphoto%2F2016%2F12%2F24%2F630499940.jpg",
+			"imgSpecs": "w=148&h=99"
 		},
 		{
 			"week": "11",
